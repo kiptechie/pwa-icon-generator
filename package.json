@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/ezzabuzaid/pwa-icon-generator#readme",
   "dependencies": {
-    "jimp": "0.8.5"
+    "jimp": "0.16.0"
   }
 }
